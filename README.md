@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>CyberSecurity Projects</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of Testing my home network for vulnerabilities(scanned for open ports). Created a cloud server, enabled router firewall, turned off port forwarding,Disabled remote management, and upgraded firmware. In addition, changed network name & password and disabled firewall to respond to pings from LAN and WAN.
 <br />
 
 
