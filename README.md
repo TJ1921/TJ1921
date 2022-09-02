@@ -1,4 +1,4 @@
-<h1>Terrance Hickmon - Disk Sanitization</h1>
+<h1>Terrance Hickmon - Securing my Home Network</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
